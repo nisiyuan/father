@@ -1,3 +1,0 @@
-[submodule "JZB-admin"]
-	path = JZB-admin
-	url = ssh://git@git.jzb.com:2222/frontend/JZB-admin.git
